@@ -51,12 +51,12 @@ Home
 → Contact  
 
  Colours Used
-- Background: Blue  
+- Background: white  
 - Text: Black  
 
 Fonts Used
-- Headings: Georgia  
-- Text: Arial  
+- Headings: Montserrat 
+- Text: Arial Black  
 
  How I Built It
 - HTML  
@@ -65,8 +65,8 @@ Fonts Used
  Questions I Asked While Building
 - How do I center headings?  
 - What size should images be?  
-- How do I add a live map?  
-- Where do I put references?  
+- How do I add a images ?  
+  
 
 Changelog
 
@@ -106,7 +106,7 @@ Testing
 - Content: Written by me  
 - Tools: Visual Studio Code, GitHub, Chrome  
 
-Harvard References
+Images References
 Brotherhood Instagram Page (2026). Available at: Instagram (Accessed: April 2026).
  
 How to Open the Website
